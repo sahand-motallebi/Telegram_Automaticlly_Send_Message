@@ -7,7 +7,7 @@ import random
 
 MESSAGE = "salam"
 
-LIST_OF_DIRECTS = ['#@Sahandmotallebi']
+LIST_OF_DIRECTS = ['#@']
 
 SEND_TIME = "01:53"
 
